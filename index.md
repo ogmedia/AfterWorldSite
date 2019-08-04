@@ -4,7 +4,7 @@ Coming soon.
 
 ### Testers wanted
 
-We are currently looking for playtesters.
+We are currently looking for playtesters. [Click Here](/testing.html) to join the beta program.
 
 ### Support or Contact
 
