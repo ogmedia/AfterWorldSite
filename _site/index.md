@@ -1,6 +1,6 @@
 ## Welcome to AfterWorld
 
-Available on Android
+Available on [Android](https://play.google.com/store/apps/details?id=com.afterworld)
 
 ### Testers wanted
 
