@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: AfterWorld
 description: AfterWorld, a card battle game.
 google_analytics: UA-145071102-1
+logo: logo.png
