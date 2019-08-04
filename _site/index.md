@@ -1,6 +1,6 @@
 ## Welcome to AfterWorld
 
-Coming soon.
+Available on Android
 
 ### Testers wanted
 
