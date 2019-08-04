@@ -5,6 +5,6 @@ We appreciate any help and feedback we can get. Feel free to join our beta testi
 [Google Play](https://play.google.com/apps/testing/com.afterworld)
 
 ### iOS
-Coming soon.
+(App Store - TestFlight)[https://testflight.apple.com/join/HolNdy4H]
 
 ![The Horde](horde.jpg)
