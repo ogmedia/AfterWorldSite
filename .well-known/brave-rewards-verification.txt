@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: afterworld.xyz
+Token: 67f37142fe9b2656a7ec743c1fae24f414d3792e1afb96e3a5a3ba71c4704b7e
