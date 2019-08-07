@@ -26,12 +26,13 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" height="256" width="256" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><img src="feature_graphic.jpg" /></p>
+        <p>
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" height="32" width="32" style="vertical-align: middle;" />
+          {% endif %}
+          <span style="vertical-align: middle, color: black">{{ site.description | default: site.github.project_tagline }}</span>
+        </p>
 
         <p>
           <a href="https://play.google.com/store/apps/details?id=com.afterworld"><img src="/google-play-badge.png" /></a>
