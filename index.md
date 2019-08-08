@@ -8,7 +8,7 @@ We are currently looking for playtesters. [Click Here](/testing.html) to join th
 
 ### Support or Contact
 
-You can contact us at sean[at]organgrindermedia.com
+You can contact us at info[at]afterworld.xyz
 
 ### Privacy
 [Privacy](/privacy.html)
